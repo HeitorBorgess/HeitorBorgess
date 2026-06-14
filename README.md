@@ -34,6 +34,7 @@ Este GitHub tem como objetivo apresentar **minha abordagem técnica, organizaç�
 
 **Frontend**
 - React.js / Next.js
+- Angular
 - JavaScript / TypeScript
 - CSS Modules
 - Arquitetura baseada em componentes
